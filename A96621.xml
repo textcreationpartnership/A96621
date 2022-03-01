@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties desires to His Excellency Sir Thomas Fairfax. Presented to His Excellency at the head quarters neere Reading. Together with the resolution of His Excellencie concerning the said desires and the great satisfaction His Majestie received thereby. Likewise, a message sent from His Excellency Sir Tho: Fairfax, to the Honourable House of Commons, concerning the Kings most Excellent Majestie. Printed for the use and satisfaction of the whole kingdome.</title>
+            <author>Williamson, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96621</idno>
+            <idno type="STC">Wing W2800</idno>
+            <idno type="STC">Thomason E398_2</idno>
+            <idno type="STC">ESTC R26379</idno>
+            <idno type="EEBO-CITATION">99872124</idno>
+            <idno type="PROQUEST">99872124</idno>
+            <idno type="VID">160369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96621)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160369)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties desires to His Excellency Sir Thomas Fairfax. Presented to His Excellency at the head quarters neere Reading. Together with the resolution of His Excellencie concerning the said desires and the great satisfaction His Majestie received thereby. Likewise, a message sent from His Excellency Sir Tho: Fairfax, to the Honourable House of Commons, concerning the Kings most Excellent Majestie. Printed for the use and satisfaction of the whole kingdome.</title>
+                  <author>Williamson, Robert.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Williamson,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>July 13. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Cawsam, July 11. 1647. Robert Williamson.</note>
+                  <note>A newsletter including a brief summary of the King's message of July 2 to Fairfax desiring to see the royal children, and the text of Fairfax's letter to Parliament urging their consent.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160369:1" rendition="simple:additions"/>
+            <p>THE KINGS MAJESTIES DESIRES <hi>To His Excellency</hi> S<hi rend="sup">ir</hi> THOMAS FAIRFAX. PRESENTED <hi>To His Excellency at the Head Quarters neere READING.</hi>
+            </p>
+            <p>Together with the Reſolution of His Excellencie concerning the ſaid Deſires, and the great ſatisfaction His MAJESTIE received thereby. Likewiſe, a Meſ<g ref="char:EOLhyphen"/>ſage ſent from his Excellency Sir <hi>Tho: Fair<g ref="char:EOLhyphen"/>fax,</hi> to the Honourable Houſe of <hi>Commons, concerning the Kings moſt Excellent Majestie.</hi>
+            </p>
+            <p>
+               <hi>Printed for the uſe and ſatifaction of the whole Kingdome.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Williamſon,</hi> July 13. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="order">
+            <pb facs="tcp:160369:2"/>
+            <pb facs="tcp:160369:2"/>
+            <head>The Kings MAJESTIES DESIRES, To his Excellency Sir <hi>Thomas Fairfax.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>HAving obtained ſuch a fit opportunity, to expreſſe my willingneſſe in a ſa<g ref="char:EOLhyphen"/>tisfactory way, to all your Deſires, I ſhall here impartially communicate the moſt re<g ref="char:EOLhyphen"/>markableſt Occurrents, which hath (lately) ebb'd and flowed, within the Kingdon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es great Streame, who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e appearance in this in<g ref="char:EOLhyphen"/>ſtance of time, ſeemes to be the Worlds chie<g ref="char:EOLhyphen"/>feſt Object. But by reaſon of breviation, and the deſire of a ſudden diſpatch, of ſome of theſe papers to the Army, I muſt of (neceſ<g ref="char:EOLhyphen"/>ſity) be take my ſelf to my limited bounds,
+<pb facs="tcp:160369:3"/>and in the firſt place preſent unto you the Deſires of the Kings Majeſty to his Excellency Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax, viz.</hi>
+            </p>
+            <p>Upon Fryday laſt, July 2. His Majeſty ſent a Meſ<g ref="char:EOLhyphen"/>ſage to the General, intimating his earneſt deſires con<g ref="char:EOLhyphen"/>cerning his Highneſſe the Duke of <hi>Yorke,</hi> and the reſt of his Children at <hi>London,</hi> declaring, 1. <hi>His earnest deſire to ſee His Princely iſſue.</hi> 2. <hi>That they might bee ſpeedily ſent down unto Him.</hi> 3. <hi>That it would bring great contentment to His Majeſty. And</hi> 4. <hi>That His Majesty deſired His Excellency Sir</hi> Thomas Fairfax, <hi>ſpeedily to ſend to the Parliament, to acquaint them therewith.</hi>
+            </p>
+            <p>Whereupon his Excellency immediatly diſpatched a Letter to the Houſe of Commons, a Copy whereof followeth:</p>
+            <div type="letter">
+               <opener>
+                  <salute>Mr. Speaker,</salute>
+               </opener>
+               <p>I Was ſent unto the King on Fryday laſt, to deſire the Parliament to give way to him to ſee his Chil<g ref="char:EOLhyphen"/>dren; And that they might for that purpoſe be ſent to him, If I may be bold humbly to offer my opinion, I think the allowance of ſuch a thing may be without the leaſt prejudice to the Kingdom, and yet gain more upon his Maj. then denying it; and if it be in the pray<g ref="char:EOLhyphen"/>ers of every good man, that his heart may be gained, the performance of ſuch civilities to him is very ſuta<g ref="char:EOLhyphen"/>ble to thoſe deſires, and will hear well with all men, who (if they can imagine it to be their own caſe) can<g ref="char:EOLhyphen"/>not but be ſorry, if his Maj. naturall affection to His Children, in ſo ſmall a thing ſhould not be complyed with; and if any queſtion ſhould be concerning the aſ<g ref="char:EOLhyphen"/>ſurance of their return, I ſhall ingage for their return within what time the Parliament ſhall limit.</p>
+               <pb facs="tcp:160369:3"/>
+               <p>Upon this occaſion, give me leave, I beſeech you, to take notice of ſome reports ſpread abroad, as if my ſelfe, and the Officers of the Army were upon ſome under hand contract, or bargain with the King; and from thence occaſion is taken to ſlander our integri<g ref="char:EOLhyphen"/>ties, and endeavour a miſunderſtanding betwixt the Parliament and their Army, the fidelity of which to the Parliament and Kingdom, and their affection to it, are the great objects of many mens Envies, becauſe they ſee nothing ſo likely to ſettle Right and Freedom with Truth and Peace to Us and Poſterity, and to hin<g ref="char:EOLhyphen"/>der their Deſignes againſt the ſame, as an harmony or good accord between the Parl. and Army, which is the joy of good men, and it ſhall be our ſtudy to pre<g ref="char:EOLhyphen"/>ſerve againſt all Deſigns and Deſigners to the contra<g ref="char:EOLhyphen"/>ry. To prevent therefore all miſunderſtandings of that kind, I thought with all clearneſſe to declare unto you, That we have done nothing, nor ſhall doe any thing, which we deſire to hide from you or the world or ſhall not avow to the faces of our greateſt Adver<g ref="char:EOLhyphen"/>ſaries. Our Deſires concerning a juſt conſideration or ſettlement of the Kings Rights (his Majeſty firſt gi<g ref="char:EOLhyphen"/>ving his concurrence to ſettle and ſecure the Rights and Liberties of the Kingdome) we have already pub<g ref="char:EOLhyphen"/>likely declared in our Repreſentation and Remon<g ref="char:EOLhyphen"/>ſtrance. Since the firſt of thoſe Papers ſent unto the Parl. there haue been ſeverall Officers of the Army upon ſeveral occaſions ſent to his Majeſty, the firſt to preſent to him a Copy of the Repreſentation, and af<g ref="char:EOLhyphen"/>ter that ſome others to tender him a Copy of the Re<g ref="char:EOLhyphen"/>monſtrance; upon both which, the Officers ſent were appointed to clear the ſence and intention of any thing in either Paper, whereupon his Maj. might make any
+<pb facs="tcp:160369:4"/>queſtion. Since then, there have alſo been ſome Offi<g ref="char:EOLhyphen"/>cers at ſeverall times ſent to his Majeſty about His remove from <hi>Hatfield,</hi> to diſſwade (if poſſibly) from <hi>Windſor,</hi> or any place ſo neare <hi>London,</hi> to ſome place of further diſtance, anſwerable to what we had deſi<g ref="char:EOLhyphen"/>red of the Parliament.</p>
+               <p>In all which addreſſes to his Majeſty, We care not who knowes what hath bin ſaid, or done; for as We have nothing to bergain for or aske, either from His Majeſty or the Parl. for advantage to our ſelves, or a<g ref="char:EOLhyphen"/>ny particular party or intereſt of our own, ſo in all thoſe addreſſes to his Majeſty, we have utterly diſ<g ref="char:EOLhyphen"/>claimed and diſavowed any ſuch thing, But the onely intent and effect of thoſe our addreſſes hath beene, to deſire his Maj. free concurrence with the Parlament, for eſtabliſhing and ſecuring the common Rights and Liberties, and ſetling the Peace of the Kingdom; and to aſſure him, that (the Publique being ſo provided for, wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ſuch his Maj. concurrence) it is fully agree<g ref="char:EOLhyphen"/>able principles, and ſhould be deſirous and endevour, That (with and in ſuch ſetling of the Publique) the Rights of his Majeſties Royall Family ſhould be alſo provided for, ſo as a laſting peace might be ſetled in this Nation. And that as we had publikely declared for the ſame in generall termes, ſo (if things came to a way of ſettlement we ſhould not be wanting (in our ſphaeras) to one that generall deſire, in any particu<g ref="char:EOLhyphen"/>lars of naturall or civil right to his Maj. Perſon or Family, which might not prejudice, or again indanger the Publique: and in the mean time, that his Majeſty ſhould find all perſonall civilities and reſpects from us, with all reaſonable freedom that might ſtand with ſafety, and with the truſt or charge lying upon us concerning his perſon.</p>
+               <pb facs="tcp:160369:4"/>
+               <p>You have here the utmoſt fum of what hath paſſed from us to his Majeſty; and we could wiſh all men did rightly underſtand (without miſrepreſentation) e<g ref="char:EOLhyphen"/>very particular wherein (as we know nothing not a<g ref="char:EOLhyphen"/>greeable to Reaſon, Juſtice, Honeſty or Conſcience, ſo we thought our ſelves concerned the rather to ſay &amp; do, as we have towards his Majeſty ſince he came within our quarters, becauſe of thoſe common pre<g ref="char:EOLhyphen"/>judices ſuggeſted againſt us, as if we were utter Ene<g ref="char:EOLhyphen"/>mies to Monarchy, and all civill Order of Govern<g ref="char:EOLhyphen"/>ment.</p>
+               <p>And for that particular of the Duke of <hi>Richmond,</hi> and the two Chaplaines lately permitted to attend his Majeſty, it was not done without much reluctancy, becauſe therein we doubted we might be miſunder<g ref="char:EOLhyphen"/>ſtood by the Kingdoms beſt friends.</p>
+               <p>But upon his Majeſties continuing importunity for it (as a thing very nearly concerning his inward &amp; outward con<g ref="char:EOLhyphen"/>rentment; and conceiving thoſe perſons ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> (as we hoped) would not doe ill Offices to prejudice the Peace of the king<g ref="char:EOLhyphen"/>dome, we did give away to it, and the perſons (before they came had notice of the permition: And as we then thought ſo we ſtill doe think that to allow him ſome ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> any of perſons leaſt dangerous, whome former accquaintance make him take pleaſure in, and the allowance of ſome ſuch Chaplains of his own, are things both reaſonable and juſt; and the debarring of that liberty in the latter) We doubt wil but make him more prejudiced againſt other Miniſters.</p>
+               <p>In generall Wee humble conceive, that to avoid al harſh<g ref="char:EOLhyphen"/>neſſes and afford all kinde uſage to his Majeſties Perſon in things conſiſting with the Peace and Safety of the Kingdom is the moſt chriſtian Honourable and prudent way, Wee think that tendor equitable and moderate dealing both to<g ref="char:EOLhyphen"/>wards his Majeſtie, his Royall Family, and his late party,
+<pb facs="tcp:160369:5"/>[ſo far as may ſtand with ſafety to the Kingdome and ſe<g ref="char:EOLhyphen"/>cureity to our common Rights and Liberties] is the moſt hopefull courſe to take away the ſeedes of war, or future Fends amongſt us for poſterity, and to precure a laſting Peace and Agreement in this now diſtracted Nation,</p>
+               <p>Thus have I given you the utmoſt ſumme of what hath paſſed betwixt the Kings moſt excellent Majeſty, and his Excellency Sir Thomas Fairfax, concerning his Majeſties Deſires touching the coming downe of His Children, being very importinant to ſee them, and it is hoped it will not be denyed, by reaſon that the Generall hath engaged for their ſafe return. Here is a gallant Court, and his Majeſty very cheerfull, being attended with many brave gallants. The Duke of Rich mond behaveth himſelf with much civility, and in great favour with the King.</p>
+               <p>Thus for the preſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur, I remain</p>
+               <closer>
+                  <signed>
+                     <hi>Yours to ſerve you,</hi> Robert Williamſon.</signed>
+                  <dateline>
+                     <hi>Cawſam,</hi> 
+                     <date>July 11. 1647.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
